@@ -1,11 +1,14 @@
 
 # Telegram-TgSender Contact | Group Bulk Send |Invite  
 
+telegram: https://t.me/IonicSupport
+whatsapp:+1 315 629 9582
+
 # Get HERE  <a href='https://bit.ly/3LAaGAc' target='_blank'>https://bit.ly/3LAaGAc</a>
 
-<p><strong>Telegram-TgSender Contact | Group Bulk Send |Invite</strong>-Support <strong>multiple accounts</strong> to work at the same time!(Maximum 20-40 accounts)</P>
-<p><strong>Telegram-TgSender Contact | Group Bulk Send |Invite</strong>-Support one-click login to multiple accounts(Maximum 20-40 accounts)</P>
-<p><strong>Telegram-TgSender Contact | Group Bulk Send |Invite</strong>-Support login with proxy,<strong>Built-in 20-40 free proxy</strong>, valid for one month</P>
+<p><strong>Telegram-TgSender Contact | Group Bulk Send |Invite</strong>-Support <strong>multiple accounts</strong> to work at the same time!(Maximum 100 accounts)</P>
+<p><strong>Telegram-TgSender Contact | Group Bulk Send |Invite</strong>-Support one-click login to multiple accounts(Maximum 100 accounts)</P>
+<p><strong>Telegram-TgSender Contact | Group Bulk Send |Invite</strong>-Support login with proxy,<strong>Built-in 100 free proxy</strong>, valid for one month</P>
 <p><strong>Telegram-TgSender Contact | Group Bulk Send |Invite</strong>-Extract members through the specified group or channel link</p>
 <p><strong>Telegram-TgSender Contact | Group Bulk Send |Invite</strong>-Support filtering members by member <strong>online status</strong></p>
 <p><strong>Telegram-TgSender Contact | Group Bulk Send |Invite</strong>-Support filtering members by member <strong>online status</strong></p>
@@ -48,7 +51,7 @@
 <p>Support single account login</p>
 <p>Multiple accounts and multiple threads log in with proxy at the same time </p>
 <p>Maximum of <strong>20-40</strong> accounts can be logged in at the same time</p>
-<p>Support <strong>unlimited accounts</strong>, but only 20-40 accounts can work at the same time</p>
+<p>Support <strong>unlimited accounts</strong>, but only 100 accounts can work at the same time</p>
 <img src="https://i.ibb.co/xs1gcHM/01-1.png" alt="Telegram-TgSender Contact | Group Bulk Send |Invite-Support multiple accounts" border="0"?>
  
 <h2><strong>Telegram TgSender-How to use a proxy when login?</strong></h2>
@@ -146,43 +149,7 @@
 <h2><strong>Online Support</strong></h2>
 <p>If you are interested in any of our products,If you have any questions,welcome to contact us.</p>
  
-<table>
-<tr>
-   <td>
-      <a href="mailto:ionicstudio@hotmail.com">
-         <img src="https://i.ibb.co/D95ZGwY/email.png" alt="email" border="0">
-    </a>
-  </td>
-    <td>
-      <a href="https://t.me/captainC999" rel="nofollow">
-       <img src="https://i.ibb.co/F7m9KDN/tg.png" alt="tg" border="0">
-    </a>
-   </td>
-</tr>
-</table>
  
  
- <h3><strong>Update Logs</strong></h3>
- - V3.0.1 ( 2022/06/16)
- <pre>
-  --Add:Support 20-40 accounts, work at the same time
-  --Add:Built-in 20-40 free proxies
-  --Add:More friendly telegram api prompt
-  --Add:More powerful account protection mechanisms and strategies
-  --Add:Very detailed documentation where you can find solutions to any common problems
-  --Fixed:abnormal prompt question
- </pre>
-  - V2.0.1 ( 2022/05/16)
- <pre>
-  --Add:Set the number of extractions to improve efficiency
-  --Add:Built-in proxy feature, easy access to proxy solutions
-  --Fixed:login problem
- </pre>
-  - V1.0.0 ( 2022/05/1)
- <pre>
-  --Add:Initial version
- </pre>
-
-
  
-
+  
